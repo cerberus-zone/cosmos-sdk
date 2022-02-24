@@ -58,14 +58,14 @@ For more information, see the [Cosmos SDK Documentation](./docs/).
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for details how to contribute and participate in our [dev calls](./CONTRIBUTE.md#dev-calls).
-If you want to follow the updates or learn more about the latest design then join our [Discord](https://discord.com/invite/cosmosnetwork).
+If you want to follow the updates or learn more about the latest design then join our [Discord](https://discord.com/invite/cosmosnetwork)
 
 ## Tools and Frameworks
 
 The Cosmos ecosystem is vast. We will only make a few notable mentions here.
 
-+ [Tools](https://v1.cosmos.network/tools): notable frameworks and modules.
-+ [CosmJS](https://github.com/cosmos/cosmjs): the Swiss Army knife to power JavaScript based client solutions.
+- [Tools](https://v1.cosmos.network/tools): notable frameworks and modules.
+- [CosmJS](https://github.com/cosmos/cosmjs): the Swiss Army knife to power JavaScript based client solutions.
 
 ### Cosmos Hub Mainnet
 
